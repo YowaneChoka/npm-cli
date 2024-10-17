@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "serve-dir"
+		},
+		{
+			"path": "cli2"
+		}
+	],
+	"settings": {}
+}
