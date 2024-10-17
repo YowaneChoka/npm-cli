@@ -1,0 +1,17 @@
+{
+  "name": "@yowane/serve-dir",
+  "author": {
+    "name": "Yowane Choka",
+    "email": "cyowane@gmail.com",
+    "url": "https://github.com/YowaneChoka"
+  },
+  "version": "1.0.0",
+  "description": "A simple CLI that says hello",
+  "bin": {
+    "serve-dir": "./index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.1",
+    "yargs": "^17.7.2"
+  }
+}
